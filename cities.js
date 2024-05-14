@@ -1,4 +1,4 @@
-const citiesInIndia = [
+citiesInIndia = [
     "Mumbai",
     "Delhi",
     "Bangalore",
@@ -884,4 +884,4 @@ const citiesInIndia = [
     "Viswanatham"
   ];
 
-export default citiesInIndia;
+
