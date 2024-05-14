@@ -1,4 +1,4 @@
-citiesInIndia = [
+"citiesInIndia":{
     "Mumbai",
     "Delhi",
     "Bangalore",
@@ -882,6 +882,6 @@ citiesInIndia = [
     "Virudhachalam",
     "Virudhunagar",
     "Viswanatham"
-  ];
+  };
 
 
