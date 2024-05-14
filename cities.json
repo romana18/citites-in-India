@@ -1,4 +1,5 @@
-"citiesInIndia": {
+{
+    "citiesInIndia": [
     "Mumbai",
     "Delhi",
     "Bangalore",
@@ -882,6 +883,6 @@
     "Virudhachalam",
     "Virudhunagar",
     "Viswanatham"
-  };
+    ]}
 
 
